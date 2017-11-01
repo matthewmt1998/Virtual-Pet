@@ -1,0 +1,29 @@
+﻿  Virtual Pet.cpp
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(52): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(53): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(54): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(55): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(56): warning C4551: function call missing argument list
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(60): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(61): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(62): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(63): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(64): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(65): warning C4551: function call missing argument list
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(69): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(70): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(71): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(72): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(73): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(74): warning C4551: function call missing argument list
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(78): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(79): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(80): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(81): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(82): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(83): warning C4551: function call missing argument list
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(58): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(67): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(76): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\ukmtay\desktop\training\self learning\programs\virtual pet\virtual pet\virtual pet.cpp(85): warning C4390: ';': empty controlled statement found; is this the intent?
+  Virtual Pet.vcxproj -> C:\Users\ukmtay\Desktop\Training\Self Learning\Programs\Virtual Pet\Debug\Virtual Pet.exe
